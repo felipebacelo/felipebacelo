@@ -1,16 +1,24 @@
-### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/felipebacelo)](https://github.com/felipebacelo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebacelo/)](https://www.linkedin.com/in/felipebacelo/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)](https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.bacelo10@gmail.com)](mailto:felipe.bacelo10@gmail.com)
 
-<!--
-**felipebacelo/felipebacelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World! 🌍
+My name is Felipe, I'm 29 years old and I live in the state of São Paulo / Brazil. I worked for approximately 4 years as a technical designer in civil construction. 
+I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
+***
+## Academic Education 🎓
+Graduation in Software Engineering (in progress)
+***
+## Improvement Courses 📚
+* Bootcamp Full Stack Developer (in progress)
+* Bootcamp Python Developer (in progress)
+* Microsoft Power BI for Data Science
+* Scrum Foundation Professional Certificate
+* VBA Excel + Access SQL
+* UML - Unified Modeling Language
+* HTML5 + CSS3 - Basic Web Development
+* HTML5 + CSS3 - Advanced Web Development
+* JavaScript
+***
+This page is still working in progress.. 🛠
