@@ -6,10 +6,10 @@
 ## Hello World! 🌍
 My name is Felipe, I'm 29 years old and I live in the state of São Paulo / Brazil. I worked for approximately 4 years as a technical designer in civil construction. 
 I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
-***
+
 ## Academic Education 🎓
 Graduation in Software Engineering (in progress)
-***
+
 ## Improvement Courses 📚
 * Bootcamp Full Stack Developer (in progress)
 * Bootcamp Python Developer (in progress)
@@ -19,6 +19,6 @@ Graduation in Software Engineering (in progress)
 * UML - Unified Modeling Language
 * HTML5 + CSS3 - Basic Web Development
 * HTML5 + CSS3 - Advanced Web Development
-* JavaScript
-***
+* Javascript Development
+
 This page is still working in progress.. 🛠
