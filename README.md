@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.bacelo10@gmail.com)](mailto:felipe.bacelo10@gmail.com)
 
 ## Hello World! 🌎
-My name is Felipe, I'm 29 years old and I live in the state of São Paulo / Brazil. I worked for approximately 4 years as a technical designer in civil construction. 
+My name is Felipe, I'm 29 years old and I live in the state of São Paulo/Brazil. I worked for approximately 4 years as a technical designer in civil construction. 
 I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
 
 ## Academic Education 🎓
