@@ -3,22 +3,22 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)](https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.bacelo10@gmail.com)](mailto:felipe.bacelo10@gmail.com)
 
-## Hello World! 🌍
+## Hello World! 🌎
 My name is Felipe, I'm 29 years old and I live in the state of São Paulo / Brazil. I worked for approximately 4 years as a technical designer in civil construction. 
 I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
 
 ## Academic Education 🎓
-Graduation in Software Engineering (in progress)
+Software Engineering Student
 
 ## Improvement Courses 📚
-* Bootcamp Full Stack Developer (in progress)
-* Bootcamp Python Developer (in progress)
-* Microsoft Power BI for Data Science
+* Full Stack Developer Bootcamp Student
+* Python Developer Bootcamp Student
+* Microsoft Power BI - Data Science
 * Scrum Foundation Professional Certificate
-* VBA Excel + Access SQL
+* VBA Excel/Access SQL
 * UML - Unified Modeling Language
-* HTML5 + CSS3 - Basic Web Development
-* HTML5 + CSS3 - Advanced Web Development
+* HTML5/CSS3 - Basic Web Development
+* HTML5/CSS3 - Advanced Web Development
 * Javascript Development
 
-This page is still working in progress.. 🛠
+This page is still working in progress... 🔧
