@@ -15,7 +15,7 @@ Software Engineering Student
 * Python Developer Bootcamp Student
 * Microsoft Power BI - Data Science
 * Scrum Foundation Professional Certificate
-* VBA Excel/Access SQL
+* VBA Developer - Excel/Access SQL
 * UML - Unified Modeling Language
 * HTML5/CSS3 - Basic Web Development
 * HTML5/CSS3 - Advanced Web Development
