@@ -13,7 +13,8 @@ Software Engineering Student
 ## Improvement Courses 📚
 * Full Stack Developer Bootcamp Student
 * Python Developer Bootcamp Student
-* Microsoft Power BI - Data Science
+* Python Fundamentals for Data Analysis Student
+* Microsoft Power BI for Data Science
 * Scrum Foundation Professional Certificate
 * VBA Developer - Excel/Access SQL
 * UML - Unified Modeling Language
