@@ -21,6 +21,6 @@ Software Engineering Student
 * UML - Unified Modeling Language
 * HTML5/CSS3 - Basic Web Development
 * HTML5/CSS3 - Advanced Web Development
-* Javascript Development
+* JavaScript Development
 
 This page is still working in progress... 🔧
