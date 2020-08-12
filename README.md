@@ -8,19 +8,18 @@ My name is Felipe, I'm 29 years old and I live in the city of São Paulo/Brazil.
 I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
 
 ## Academic Education 🎓
-Software Engineering Student
+Software Engineering Student 3/8
 
 ## Improvement Courses 📚
 * Full Stack Developer Bootcamp Student
 * Python Developer Bootcamp Student
 * Python Fundamentals for Data Analysis Student
-* Microsoft Power BI for Data Science
-* DevOps Essentials Professional Certificate
-* Scrum Foundation Professional Certificate
-* VBA Developer - Excel/Access SQL
-* UML - Unified Modeling Language
-* HTML5/CSS3 - Basic Web Development
-* HTML5/CSS3 - Advanced Web Development
-* JavaScript Development
+* Microsoft Power BI for Data Science ✔️
+* DevOps Essentials Professional Certificate ✔️
+* Scrum Foundation Professional Certificate ✔️
+* VBA Developer - Excel/Access SQL ✔️
+* UML - Unified Modeling Language ✔️
+* HTML5/CSS3 - Web Development ✔️
+* JavaScript Development ✔️
 
 This page is still working in progress... 🔧
