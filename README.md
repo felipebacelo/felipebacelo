@@ -20,6 +20,6 @@ Software Engineering Student 3/8
 * VBA Developer - Excel/Access SQL ✔️
 * UML - Unified Modeling Language ✔️
 * HTML5/CSS3 - Web Development ✔️
-* JavaScript Development ✔️
+* JavaScript - Web Development ✔️
 
 This page is still working in progress... 🔧
