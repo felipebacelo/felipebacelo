@@ -8,7 +8,7 @@ My name is Felipe, I'm 29 years old and I live in the city of São Paulo/Brazil.
 I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
 
 ## Academic Education 🎓
-Software Engineering Student 3/8
+Software Engineering Student
 
 ## Improvement Courses 📚
 * Full Stack Developer Bootcamp Student
