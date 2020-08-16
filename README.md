@@ -14,12 +14,12 @@ Software Engineering Student
 * Full Stack Developer Bootcamp Student
 * Python Developer Bootcamp Student
 * Python Fundamentals for Data Analysis Student
-* Microsoft Power BI for Data Science ✔️
-* DevOps Essentials Professional Certificate ✔️
-* Scrum Foundation Professional Certificate ✔️
-* VBA Developer - Excel/Access SQL ✔️
-* UML - Unified Modeling Language ✔️
-* HTML5/CSS3 - Web Development ✔️
-* JavaScript - Web Development ✔️
+* Microsoft Power BI for Data Science
+* DevOps Essentials Professional Certificate
+* Scrum Foundation Professional Certificate
+* VBA Developer - Excel/Access SQL
+* UML - Unified Modeling Language
+* HTML5/CSS3 - Web Development
+* JavaScript - Web Development
 
 This page is still working in progress... 🔧
