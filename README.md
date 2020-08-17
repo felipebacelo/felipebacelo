@@ -13,7 +13,7 @@ Software Engineering Student
 ## Improvement Courses 📚
 * Full Stack Developer Bootcamp Student
 * Python Developer Bootcamp Student
-* Python Fundamentals for Data Analysis Student
+* Python Fundamentals for Data Analysis
 * Microsoft Power BI for Data Science
 * DevOps Essentials Professional Certificate
 * Scrum Foundation Professional Certificate
