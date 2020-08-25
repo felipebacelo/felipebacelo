@@ -15,8 +15,9 @@ Software Engineering Student
 * Python Developer Bootcamp Student
 * Python Fundamentals for Data Analysis
 * Microsoft Power BI for Data Science
-* DevOps Essentials Professional Certificate
 * Scrum Foundation Professional Certificate
+* Kanban Essentials Professional Certificate
+* DevOps Essentials Professional Certificate
 * VBA Developer - Excel/Access SQL
 * UML - Unified Modeling Language
 * HTML5/CSS3 - Web Development
