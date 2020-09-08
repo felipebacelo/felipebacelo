@@ -16,8 +16,8 @@ Software Engineering Student
 * Python Fundamentals for Data Analysis
 * Microsoft Power BI for Data Science
 * Scrum Foundation Professional Certificate
+* Kanban Foundation Professional Certificate
 * DevOps Essentials Professional Certificate
-* Kanban Essentials Professional Certificate
 * VBA Developer - Excel/Access SQL
 * UML - Unified Modeling Language
 * HTML5/CSS3 - Web Development
