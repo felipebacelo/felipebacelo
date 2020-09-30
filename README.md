@@ -3,6 +3,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)](https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.bacelo10@gmail.com)](mailto:felipe.bacelo10@gmail.com)
 
-## Hello World! 🌎
+## Hello World!
 My name is Felipe, I'm 29 years old and I live in the city of São Paulo/Brazil. I worked for approximately 4 years as a technical designer in civil construction. 
 I am currently graduating in software engineering and looking for an opportunity to enter the technology and software development area, adding with my acquired knowledge and developing with the team.
