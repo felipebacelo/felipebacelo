@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebacelo/)](https://www.linkedin.com/in/felipebacelo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)](https://api.whatsapp.com/send?phone=5511997471991&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.bacelo10@gmail.com)](mailto:felipe.bacelo10@gmail.com)
+[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge&link=https://pt.stackoverflow.com/users/212762/felipe-bacelo)](https://pt.stackoverflow.com/users/212762/felipe-bacelo)
 
 ## Hello World!
 
