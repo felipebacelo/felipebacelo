@@ -4,7 +4,7 @@
 </p>
 
 ## Improvement Courses  📚
-* R Data Scientist
+* R Programming A-Z
 * Full Stack Developer Bootcamp
 * Python Developer Bootcamp
 * Microsoft Power BI Course
