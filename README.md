@@ -9,6 +9,7 @@
 * Full Stack Developer Bootcamp
 * Python Developer Bootcamp
 * Microsoft Power BI Course
+* Cyber Security Foundation Professional Certificate
 * Kanban Foundation Professional Certificate
 * Scrum Foundation Professional Certificate
 * DevOps Essentials Professional Certificate
