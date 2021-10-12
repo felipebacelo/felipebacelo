@@ -1,3 +1,3 @@
-<h3 align="left">Hello World  🌎</h3>
-<p style="width:400px">My name is Felipe, I'm 30 years old and I live in São Paulo / Brazil. I'm currently majoring in Software Engineering. I've always been interested in the technology area from an early age, in recent years I've returned my studies to the area, focusing on developing and maintaining software solutions, data analysis and transformation, integration of different technologies and process automation.
-I am dedicated to work and learning, I believe in the power of innovation as a transforming agent in people's lives.
+<h3 align="left">Hello World!!!  🌎</h3>
+<p>My name is Felipe, I'm 30 years old and I live in São Paulo / Brazil. I'm currently majoring in Software Engineering with completion expected in Jun/2023.</p>
+<p>I have always been interested in the technology area from an early age, in recent years I have returned to my studies in the area, in order to gain experience to carry out my career transition. My main focus is on data, process automation and integration of different technologies for software solutions. My main knowledge in the area is in R, VBA, Python and SAS, in addition to the following RDBMS: Microsoft SQL Server, Oracle, PostgreSQL, MySQL, SQLite and Teradata.</p>
